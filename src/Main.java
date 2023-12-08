@@ -3,7 +3,7 @@ import org.apache.commons.math3.random.RandomDataGenerator;
 public class Main {
     public static void main(String[] args) {
         // Configura el generador de números aleatorios
-        RandomDataGenerator randomDataGenerator = new RandomDataGenerator();
+        RandomDataGenerator randomDataGenerator = new RandomDataGenerato
 
         // Genera y muestra 10 números aleatorios entre 1 y 100
         System.out.println("10 números aleatorios entre 1 y 100:");
